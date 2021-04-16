@@ -1,0 +1,5 @@
+logs/*/*.log
+data/*
+db-backup/*
+!data/.gitkeep
+docker-compose.yml

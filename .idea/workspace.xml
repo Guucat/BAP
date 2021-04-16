@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:huangheng" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33213414-06ad-44e7-82cc-50a9ead0fceb" name="Default Changelist" comment="solve the bug of antigen funtion">
+      <change afterPath="$PROJECT_DIR$/src/BAP/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BAP/nginx.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BAP/application/api/controller/Test.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/BAP/application/api/controller/Test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BAP/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/BAP/config/database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BAP/route/route.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/BAP/route/route.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="huangheng" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/liyinghong54/BAP" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ku5S4iJQJpE0sgl8Zykl89O6A4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/BAP" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\phpstudy_pro\WWW\BAP\src\BAP" />
+      <recent name="E:\phpstudy_pro\WWW\BAP\src\BAP\application\api" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\phpstudy_pro\WWW\BAP\src\BAP" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33213414-06ad-44e7-82cc-50a9ead0fceb" name="Default Changelist" comment="" />
+      <created>1606537633234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606537633234</updated>
+      <workItem from="1606537634754" duration="3162000" />
+      <workItem from="1606542139057" duration="1943000" />
+      <workItem from="1606620579984" duration="1000" />
+      <workItem from="1606748326953" duration="47000" />
+      <workItem from="1607693422141" duration="1011000" />
+      <workItem from="1607940521378" duration="2683000" />
+      <workItem from="1608105989986" duration="6682000" />
+      <workItem from="1608113282397" duration="345000" />
+      <workItem from="1608180278557" duration="5067000" />
+      <workItem from="1608289420411" duration="3978000" />
+      <workItem from="1608649014600" duration="998000" />
+      <workItem from="1608697245994" duration="2438000" />
+      <workItem from="1608718251528" duration="850000" />
+      <workItem from="1608738981915" duration="839000" />
+      <workItem from="1608779479175" duration="1212000" />
+      <workItem from="1608895231966" duration="2274000" />
+      <workItem from="1608907394525" duration="57000" />
+      <workItem from="1609315092038" duration="1022000" />
+      <workItem from="1609426573739" duration="22000" />
+      <workItem from="1609494790357" duration="1742000" />
+      <workItem from="1610367202981" duration="16503000" />
+      <workItem from="1610466647484" duration="13255000" />
+      <workItem from="1610626195981" duration="326000" />
+      <workItem from="1610626601904" duration="2335000" />
+      <workItem from="1611032874367" duration="29000" />
+      <workItem from="1611032936779" duration="2650000" />
+      <workItem from="1611036429510" duration="14012000" />
+      <workItem from="1611319344971" duration="878000" />
+      <workItem from="1611322180005" duration="1525000" />
+      <workItem from="1611391329778" duration="55000" />
+      <workItem from="1611395459725" duration="3000" />
+      <workItem from="1611493958728" duration="382000" />
+      <workItem from="1611494405376" duration="3414000" />
+      <workItem from="1611661554871" duration="613000" />
+      <workItem from="1611726471971" duration="6832000" />
+      <workItem from="1611988724673" duration="5764000" />
+      <workItem from="1612251380120" duration="1847000" />
+      <workItem from="1612255545803" duration="5496000" />
+      <workItem from="1612496992714" duration="19945000" />
+      <workItem from="1612612135807" duration="1815000" />
+      <workItem from="1614430946597" duration="672000" />
+      <workItem from="1614665358252" duration="18418000" />
+      <workItem from="1615079193387" duration="11952000" />
+      <workItem from="1615384062709" duration="791000" />
+      <workItem from="1615463521779" duration="6099000" />
+      <workItem from="1618036309271" duration="17687000" />
+      <workItem from="1618483141293" duration="623000" />
+    </task>
+    <task id="LOCAL-00001" summary="back the beginning version">
+      <created>1607692416174</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607692416174</updated>
+    </task>
+    <task id="LOCAL-00002" summary="back the beginning version">
+      <created>1607692904222</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607692904222</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add api of test function">
+      <created>1607941585599</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607941585599</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add index of test function">
+      <created>1608110470175</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608110470175</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add index of test function">
+      <created>1608110493406</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608110493406</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add api of index function">
+      <created>1608112073885</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608112073885</updated>
+    </task>
+    <task id="LOCAL-00007" summary="test successfully the function:register,code">
+      <created>1608291581606</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608291581606</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add iip.sql">
+      <created>1608291741604</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1608291741604</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add iip.sql">
+      <created>1608291945120</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1608291945120</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add and test source funtion">
+      <created>1608714812422</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1608714812422</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add and test login funtion">
+      <created>1608715326472</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1608715326472</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add and test tool funtion">
+      <created>1608715814789</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1608715814789</updated>
+    </task>
+    <task id="LOCAL-00013" summary="change the url of md file">
+      <created>1608718486804</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1608718486804</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add source and tool mdfile">
+      <created>1608896070146</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1608896070146</updated>
+    </task>
+    <task id="LOCAL-00015" summary="change the task mdfile">
+      <created>1608897070354</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1608897070354</updated>
+    </task>
+    <task id="LOCAL-00016" summary="change the database port:3306">
+      <created>1608897282520</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1608897282520</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add funtion get_microbe_info">
+      <created>1610372792337</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1610372792337</updated>
+    </task>
+    <task id="LOCAL-00018" summary="add test_json(exist bug)">
+      <created>1610508635599</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1610508635599</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add test_json(solve the bug)">
+      <created>1610542762849</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1610542762849</updated>
+    </task>
+    <task id="LOCAL-00020" summary="add microbe_info and update_microbe_info funtion">
+      <created>1610544811896</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1610544811896</updated>
+    </task>
+    <task id="LOCAL-00021" summary="update the update_microbe_info funtion">
+      <created>1611045850306</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1611045850306</updated>
+    </task>
+    <task id="LOCAL-00022" summary="add classification_info function">
+      <created>1611048799709</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1611048799709</updated>
+    </task>
+    <task id="LOCAL-00023" summary="add update_classification_info function">
+      <created>1611056478289</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1611056478289</updated>
+    </task>
+    <task id="LOCAL-00024" summary="add update_classification_info and classification_info md_file">
+      <created>1611057279923</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1611057279923</updated>
+    </task>
+    <task id="LOCAL-00025" summary="add update_reference_info and reference_info function and md_file">
+      <created>1611059375729</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1611059375729</updated>
+    </task>
+    <task id="LOCAL-00026" summary="adjust source and tool function structure">
+      <created>1611059901249</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1611059901249</updated>
+    </task>
+    <task id="LOCAL-00027" summary="update register function">
+      <created>1611066359974</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1611066359974</updated>
+    </task>
+    <task id="LOCAL-00028" summary="add update and show all_microbe_info function ,rename md file title">
+      <created>1611497709633</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1611497709633</updated>
+    </task>
+    <task id="LOCAL-00029" summary="add receptor_info and update_receptor_info">
+      <created>1611897753609</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1611897753609</updated>
+    </task>
+    <task id="LOCAL-00030" summary="add antigen part">
+      <created>1612251442274</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1612251442274</updated>
+    </task>
+    <task id="LOCAL-00031" summary="add antigen md_file">
+      <created>1612262807101</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1612262807101</updated>
+    </task>
+    <task id="LOCAL-00032" summary="add antibody_info function ,a bug need to be solve in the further">
+      <created>1612501388113</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1612501388113</updated>
+    </task>
+    <task id="LOCAL-00033" summary="add vaccine part">
+      <created>1612504681258</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1612504681258</updated>
+    </task>
+    <task id="LOCAL-00034" summary="add clinical_testing part">
+      <created>1612509763233</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1612509763233</updated>
+    </task>
+    <task id="LOCAL-00035" summary="debug v1">
+      <created>1612512315182</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1612512315182</updated>
+    </task>
+    <task id="LOCAL-00036" summary="new database file:iip2">
+      <created>1612513264733</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1612513264733</updated>
+    </task>
+    <task id="LOCAL-00037" summary="debug v2">
+      <created>1612531640190</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1612531640190</updated>
+    </task>
+    <task id="LOCAL-00038" summary="add antibody funtion">
+      <created>1614676891006</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1614676891007</updated>
+    </task>
+    <task id="LOCAL-00039" summary="solve the bug of antigen funtion">
+      <created>1614687607119</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1614687607120</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/huangheng" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="change the task mdfile" />
+    <MESSAGE value="change the database port:3306" />
+    <MESSAGE value="add funtion get_microbe_info" />
+    <MESSAGE value="add test_json(exist bug)" />
+    <MESSAGE value="add test_json(solve the bug)" />
+    <MESSAGE value="add microbe_info and update_microbe_info funtion" />
+    <MESSAGE value="update the update_microbe_info funtion" />
+    <MESSAGE value="add classification_info function" />
+    <MESSAGE value="add update_classification_info function" />
+    <MESSAGE value="add update_classification_info and classification_info md_file" />
+    <MESSAGE value="add update_reference_info and reference_info function and md_file" />
+    <MESSAGE value="adjust source and tool function structure" />
+    <MESSAGE value="update register function" />
+    <MESSAGE value="add update and show all_microbe_info function ,rename md file title" />
+    <MESSAGE value="add receptor_info and update_receptor_info" />
+    <MESSAGE value="add antigen part" />
+    <MESSAGE value="add antigen md_file" />
+    <MESSAGE value="add antibody_info function ,a bug need to be solve in the further" />
+    <MESSAGE value="add vaccine part" />
+    <MESSAGE value="add clinical_testing part" />
+    <MESSAGE value="debug v1" />
+    <MESSAGE value="new database file:iip2" />
+    <MESSAGE value="debug v2" />
+    <MESSAGE value="add antibody funtion" />
+    <MESSAGE value="solve the bug of antigen funtion" />
+    <option name="LAST_COMMIT_MESSAGE" value="solve the bug of antigen funtion" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="626" y="455" key="com.intellij.ide.util.TipDialog" timestamp="1618483163959">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="626" y="455" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618483163959" />
+    <state x="761" y="266" key="run.anything.popup" timestamp="1618111462234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="266" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1618111462234" />
+  </component>
+</project>

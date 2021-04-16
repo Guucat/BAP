@@ -1,0 +1,68 @@
+# 修改微生物信息接口
+> `post`   `api.lyhbio.com/rest/v1/update_microbe_info`
+
+#### 注意:发送json格式内容给后端，示例如下:
+``` javascript
+{
+    "time": "11", //测试用，随便传一个数字即可
+    "token": "111", //测试用，随便传一个数字即可
+    "data": {
+        "table_microbe": [
+            {
+                "microbe__microbe_id": "1",
+                "microbe__standard_name": "蝙蝠",
+                "microbe__synonym_name": "盐老鼠",
+                "microbe__rank": "哺乳动物",
+                "microbe__taxid": 1,
+                "microbe__description": "头酷似小狗，有翅膀，只能倒立起飞",
+                "microbe__figure_name": "最大的蝙蝠",
+                "microbe__shape": "黑不溜秋",
+                "microbe__shape_ref": "1",
+                "microbe__size": "10多cm长",
+                "microbe__size_ref": "1",
+                "microbe__nuc_type": "dna,rna",
+                "microbe__nuc_type_ref": "1",
+                "microbe__transmission_route": "空气，血液",
+                "microbe__transmission_route_ref": "1",
+                "microbe__species_curation_status": "注释中"
+            }
+        ],
+        "table_microbe_host": [
+            {
+                "microbe_host__id": "1",
+                "microbe_host__microbe_id": "1",
+                "microbe_host__host_species_strand_name": "狗",
+                "microbe_host__host_species_synonym_name": "田园犬",
+                "microbe_host__host_species_taxid": 1,
+                "microbe_host__host_type": "中间宿主",
+                "microbe_host__host_ref": "1"
+            }
+        ],
+        "table_microbe_tax": [
+            {
+                "microbe_tax__microbe_id": "1",
+                "microbe_tax__kingdom": "动物界",
+                "microbe_tax__kingdom_taxid": 1,
+                "microbe_tax__phylum": "脊索动物门",
+                "microbe_tax__phylum_taxid": 1,
+                "microbe_tax__class": "哺乳纲",
+                "microbe_tax__class_taxid": 1,
+                "microbe_tax__order": "翼手目",
+                "microbe_tax__order_taxid": 1,
+                "microbe_tax__family": "黑蝙蝠科",
+                "microbe_tax__family_taxid": 1,
+                "microbe_tax__genus": "黑属",
+                "microbe_tax__genus_taxid": 1,
+                "microbe_tax__species": "蝙蝠",
+                "microbe_tax__species_taxid": 1,
+                "microbe_tax__serotype": "o",
+                "microbe_tax__serotype_taxid": 1,
+                "microbe_tax__genotype": "ccagct",
+                "microbe_tax__genotype_taxid": 1
+            }
+        ]
+    }
+}
+```
+
+
