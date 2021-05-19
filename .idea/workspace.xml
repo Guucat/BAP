@@ -29,10 +29,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33213414-06ad-44e7-82cc-50a9ead0fceb" name="Default Changelist" comment="solve the bug of antigen funtion">
-      <change afterPath="$PROJECT_DIR$/src/BAP/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BAP/nginx.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BAP/application/api/controller/Genome.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BAP/application/api/controller/Test.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/BAP/application/api/controller/Test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/md_api/get_code.md" beforeDir="false" afterPath="$PROJECT_DIR$/md_api/get_code.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BAP/application/api/controller/Common.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/BAP/application/api/controller/Common.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BAP/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/BAP/config/database.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BAP/route/route.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/BAP/route/route.php" afterDir="false" />
     </list>
@@ -84,7 +84,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/BAP" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -154,6 +154,10 @@
       <workItem from="1615463521779" duration="6099000" />
       <workItem from="1618036309271" duration="17687000" />
       <workItem from="1618483141293" duration="623000" />
+      <workItem from="1620896630430" duration="819000" />
+      <workItem from="1620913709145" duration="1521000" />
+      <workItem from="1620950880410" duration="2682000" />
+      <workItem from="1621428714933" duration="1483000" />
     </task>
     <task id="LOCAL-00001" summary="back the beginning version">
       <created>1607692416174</created>
@@ -508,10 +512,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="solve the bug of antigen funtion" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="626" y="455" key="com.intellij.ide.util.TipDialog" timestamp="1618483163959">
+    <state x="506" y="68" key="CommitChangelistDialog2" timestamp="1621430295619">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="626" y="455" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618483163959" />
+    <state x="506" y="68" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1621430295619" />
+    <state x="361" y="101" key="SettingsEditor" timestamp="1621430169028">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="361" y="101" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1621430169028" />
+    <state x="626" y="455" key="com.intellij.ide.util.TipDialog" timestamp="1621428753237">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="626" y="455" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621428753237" />
     <state x="761" y="266" key="run.anything.popup" timestamp="1618111462234">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

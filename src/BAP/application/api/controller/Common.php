@@ -152,15 +152,15 @@ class Common extends Controller
     /* 验证参数是否符合规则 */
     public function check_params($arr)
     {
-        #print_r($arr); //测试
-        #获取参数验证规则
-        $rule = $this->rules[Request::controller()][Request::action()];//获取当前控制器和方法以对应规则
-        #验证参数并返回错误
-        $this->validater = Validate::instance($rule);
-        if (!$this->validater->check($arr)) {
-            $this->return_msg(400, Validate::getError());
-        }
-        #参数正常，通过验证
+//        #print_r($arr); //测试
+//        #获取参数验证规则
+//        $rule = $this->rules[Request::controller()][Request::action()];//获取当前控制器和方法以对应规则
+//        #验证参数并返回错误
+//        $this->validater = Validate::instance($rule);
+//        if (!$this->validater->check($arr)) {
+//            $this->return_msg(400, Validate::getError());
+//        }
+//        #参数正常，通过验证
         $this->params = $arr;
     }
 

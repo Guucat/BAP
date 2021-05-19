@@ -28,6 +28,11 @@ use \think\facade\Route;
 Route::group('/rest/v1/', function(){
     Route::domain('api','api');
 
+    //测试中的接口
+    Route::get('genome_info','genome/genome_info');
+    Route::post('update_genome_info','genome/update_genome_info');
+
+
     Route::get('hello','test/hello');//test
 	Route::get('list_something', 'index/index'); //test
 	Route::get('test_get', 'test/test_get'); //test
