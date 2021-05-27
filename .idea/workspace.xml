@@ -28,8 +28,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33213414-06ad-44e7-82cc-50a9ead0fceb" name="Default Changelist" comment="">
+    <list default="true" id="33213414-06ad-44e7-82cc-50a9ead0fceb" name="Default Changelist" comment="新增 Genome查询与修改接口">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BAP/application/api/controller/Common.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/BAP/application/api/controller/Common.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BAP/application/api/controller/Genome.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/BAP/application/api/controller/Genome.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BAP/route/route.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/BAP/route/route.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +40,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -91,7 +92,7 @@
       <recent name="E:\phpstudy_pro\WWW\BAP\src\BAP" />
     </key>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\ACER\AppData\Roaming\Subversion</configuration>
   </component>
@@ -153,6 +154,7 @@
       <workItem from="1620913709145" duration="1521000" />
       <workItem from="1620950880410" duration="2682000" />
       <workItem from="1621428714933" duration="2796000" />
+      <workItem from="1622012900576" duration="14650000" />
     </task>
     <task id="LOCAL-00001" summary="back the beginning version">
       <created>1607692416174</created>
@@ -438,7 +440,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -457,7 +459,6 @@
                   </entry>
                 </map>
               </option>
-              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
@@ -483,10 +484,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="change the task mdfile" />
     <MESSAGE value="change the database port:3306" />
     <MESSAGE value="add funtion get_microbe_info" />
     <MESSAGE value="add test_json(exist bug)" />
@@ -511,32 +512,7 @@
     <MESSAGE value="debug v2" />
     <MESSAGE value="add antibody funtion" />
     <MESSAGE value="solve the bug of antigen funtion" />
-    <option name="LAST_COMMIT_MESSAGE" value="solve the bug of antigen funtion" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="506" y="68" key="CommitChangelistDialog2" timestamp="1621430671417">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="506" y="68" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1621430671417" />
-    <state x="759" y="187" key="RollbackChangesDialog" timestamp="1621940909991">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="759" y="187" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621940909991" />
-    <state x="361" y="101" key="SettingsEditor" timestamp="1621430843139">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="361" y="101" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1621430843139" />
-    <state x="626" y="455" key="com.intellij.ide.util.TipDialog" timestamp="1621940882351">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="626" y="455" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621940882351" />
-    <state x="736" y="440" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1621940933257">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="736" y="440" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1621940933257" />
-    <state x="761" y="266" key="run.anything.popup" timestamp="1618111462234">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="761" y="266" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1618111462234" />
+    <MESSAGE value="新增 Genome查询与修改接口" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增 Genome查询与修改接口" />
   </component>
 </project>
